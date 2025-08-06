@@ -79,5 +79,5 @@ If you’d like to improve the model (e.g., add elliptical sources, material ani
 
 ## 📩 Questions or Feedback?
 
-Reach out to me via LinkedIn or leave a comment on the original (https://www.linkedin.com](https://www.linkedin.com/posts/varadtakkeme_heat-spreader-design-activity-7358602390108884992-x3dJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLodasB5Cy0Ml1ZakHtnllkDuyLOdm1VR4)).
+Reach out to me via LinkedIn or leave a comment on the original https://www.linkedin.com/posts/varadtakkeme_heat-spreader-design-activity-7358602390108884992-x3dJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLodasB5Cy0Ml1ZakHtnllkDuyLOdm1VR4.
 
